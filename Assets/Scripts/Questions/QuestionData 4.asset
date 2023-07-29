@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e224c336fcaef49bc79e63b16d264d, type: 3}
+  m_Name: QuestionData 4
+  m_EditorClassIdentifier: 
+  Question: 'Kamu sedang berada di hutan dan menemukan sungai yang menghalangi jalanmu.
+    Di sekitar terdapat beberapa pohon yang dapat kamu gunakan sebagai jembatan.
+    Pohon mana yang harus kamu pilih untuk menyeberangi sungai dengan aman? '
+  Answer:
+  - Pohon yang tinggi dan kuat
+  - Pohon yang pendek dan rapuh
+  - Pohon yang berbuah lezat
+  - Pohon yang rimbun berdaun
+  CorrectAnswerText: 'awaban Yang Benar : A. Karena untuk menyebrang sungai, kamu
+    memerlukan sesuatu yang kuat dan panjang agar bisa menghubungkan 2 daratan dan
+    juga cukup aman untuk kamu lalui '
+  CorrectAnswer: 0
+  Score: 5
+  CardAlreadyUsed: 0

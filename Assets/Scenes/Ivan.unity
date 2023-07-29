@@ -552,6 +552,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 1926089536281490369, guid: d68306f3204346b4f957ce4edf1fc569, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -32.289062
+      objectReference: {fileID: 0}
+    - target: {fileID: 2348296055512713192, guid: d68306f3204346b4f957ce4edf1fc569, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -32.289062
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292330180104033850, guid: d68306f3204346b4f957ce4edf1fc569, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -32.289062
+      objectReference: {fileID: 0}
     - target: {fileID: 4740657058246829042, guid: d68306f3204346b4f957ce4edf1fc569, type: 3}
       propertyPath: m_Name
       value: GUI
@@ -840,6 +852,14 @@ PrefabInstance:
       propertyPath: OnAllPlayerTurnEnd.m_PersistentCalls.m_Calls.Array.data[4].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 8719700124658580055, guid: d68306f3204346b4f957ce4edf1fc569, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -32.289062
+      objectReference: {fileID: 0}
+    - target: {fileID: 8719700124658580055, guid: d68306f3204346b4f957ce4edf1fc569, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 208.01001
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d68306f3204346b4f957ce4edf1fc569, type: 3}
 --- !u!1001 &8209702537726149615
@@ -895,12 +915,52 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
       propertyPath: QuestionCards.Array.size
-      value: 1
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
       propertyPath: QuestionCards.Array.data[0]
       value: 
+      objectReference: {fileID: 11400000, guid: 678706d75d0507c4bb245125bbfcbff7, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[1]
+      value: 
       objectReference: {fileID: 11400000, guid: 0d32b0d62a20bce4fb3caa02a2fea957, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9648ee249a79e4a48a29ec29dbb9a24a, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[3]
+      value: 
+      objectReference: {fileID: 11400000, guid: 94ef646b30201ee4e8f35b2c9451d2ab, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[4]
+      value: 
+      objectReference: {fileID: 11400000, guid: 30bcb3f93385fb44c8c9b188e2f9e025, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[5]
+      value: 
+      objectReference: {fileID: 11400000, guid: 07be990f5ec6fa441af9e7590e1cf130, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[6]
+      value: 
+      objectReference: {fileID: 11400000, guid: 20c8a858c45534b40ae8c1f30e9359d3, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[7]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9a29a948744fa0f44a4a00d30ac481bf, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[8]
+      value: 
+      objectReference: {fileID: 11400000, guid: df5840c8e977815429960c9bae38c211, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[9]
+      value: 
+      objectReference: {fileID: 11400000, guid: 94eee6731624d0941abde16e4400260e, type: 2}
+    - target: {fileID: 8209702538600623989, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
+      propertyPath: QuestionCards.Array.data[10]
+      value: 
+      objectReference: {fileID: 11400000, guid: 8c918c1bd27d10d48bcb68a6bb582fe2, type: 2}
     - target: {fileID: 8209702538600623990, guid: 967e686d685b68e44bd8c666b9e86d9c, type: 3}
       propertyPath: m_Name
       value: GameManager

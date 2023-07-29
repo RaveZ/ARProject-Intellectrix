@@ -51,7 +51,15 @@ public class GameManager : MonoBehaviour
         }else
         {
             SelectedCard = Random.Range(0, QuestionCards.Length);
-            QuestionCards[SelectedCard].CardAlreadyUsed = true;
+            if (QuestionCards[SelectedCard].CardAlreadyUsed)
+            {
+                DrawCard();
+            }
+            else
+            {
+                print(SelectedCard);
+                QuestionCards[SelectedCard].CardAlreadyUsed = true;
+            }
         }
 
     } 

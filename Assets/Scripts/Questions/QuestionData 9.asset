@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e224c336fcaef49bc79e63b16d264d, type: 3}
+  m_Name: QuestionData 9
+  m_EditorClassIdentifier: 
+  Question: 'Kamu dan teman-temanmu terdampar di sebuah pulau misterius setelah kapal
+    kalian mengalami badai. Saat menjelajahi pulau, kalian menemukan 5 pintu berbeda
+    yang terkunci. Di setiap pintu terdapat teka-teki. Pada pintu pertama, ada teka-teki
+    ini: "Aku adalah bilangan bulat, jika aku ditambah 10, aku menjadi 25. Siapakah
+    aku?" '
+  Answer:
+  - 15
+  - 10
+  - 20
+  - 5
+  CorrectAnswerText: 'Jawaban Yang Benar: A, Karena 15 + 10 = 25. '
+  CorrectAnswer: 0
+  Score: 5
+  CardAlreadyUsed: 0

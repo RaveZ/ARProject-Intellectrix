@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e224c336fcaef49bc79e63b16d264d, type: 3}
+  m_Name: QuestionData 3
+  m_EditorClassIdentifier: 
+  Question: 'Kamu dan teman temanmu pergi bermain ke dalam hutan. Saat sedang berkeliaran
+    didalam hutan kamu melihat ada pertanda untuk rute yang benar. Saat didepan diberitahu
+    bahwa rute yang benar adalah pohon 1,5 dan 9. Setelah kamu melewati ketiga pohon
+    itu terdapat 4 pilihan yaitu pohon 12,13,14 dan 15. Pohon manakah yang merupakan
+    jalan yang benar?  '
+  Answer:
+  - 12
+  - 13
+  - 14
+  - 15
+  CorrectAnswerText: 'Jawaban Yang Benar : B, Karena setiap nomor jalan yang benar
+    berbeda 4 dari angka sebelum nya'
+  CorrectAnswer: 1
+  Score: 5
+  CardAlreadyUsed: 0

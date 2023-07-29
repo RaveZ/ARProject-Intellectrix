@@ -11,6 +11,7 @@ namespace Game.Question
         public String Question;
 
         public String[] Answer;
+        public String CorrectAnswerText;
         [Range(0, 3)]
         public int CorrectAnswer;
         public int Score;

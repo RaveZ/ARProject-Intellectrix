@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e224c336fcaef49bc79e63b16d264d, type: 3}
+  m_Name: QuestionData 11
+  m_EditorClassIdentifier: 
+  Question: 'Kamu dan teman-temanmu berpetualang di hutan terlarang untuk mencari
+    harta karun. Saat menjelajahi hutan, kalian menemukan 4 pilar batu yang berbeda.
+    Di setiap pilar, terdapat simbol berbeda. Kamu menyadari ada pola tertentu di
+    balik simbol-simbol tersebut. Berapa simbol berikutnya dalam pola ini?  Simbol-simbol:
+    A, B, D, G, ... '
+  Answer:
+  - H
+  - I
+  - E
+  - K
+  CorrectAnswerText: 'Jawaban Yang Benar: D, Karena pola simbol-simbol tersebut adalah
+    mengikuti urutan alfabet A lalu B skip 0 B lalu D skip 1 (C)  D lalu G skip 2
+    (E, F)  G lalu K skip 3 (H, I, J)  '
+  CorrectAnswer: 3
+  Score: 5
+  CardAlreadyUsed: 0

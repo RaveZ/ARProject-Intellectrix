@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e224c336fcaef49bc79e63b16d264d, type: 3}
+  m_Name: QuestionData 6
+  m_EditorClassIdentifier: 
+  Question: 'Didalam hutan, kamu menemukan sebuah peti harta karun yang harus dibuka
+    menggunakan tuas. Tuas tersebut harus di gerakkan sebanyak A+B+C+D+E. Pada peti
+    kamu melihat clue, bahwa A adalah 2 , B adalah 4 dan C adalah 8. Berapa kali
+    tuas harus digerakkan agar kamu dapat membuka peti itu?  '
+  Answer:
+  - 50
+  - 62
+  - 78
+  - 60
+  CorrectAnswerText: 'Jawaban Yang Benar: B, Karena Jika A adalah 2,B adalah 4,C
+    adalah 8 Maka D adalah 16 dan E adalah 32 sedangkan 2+4+8+16+32 adalah 62'
+  CorrectAnswer: 1
+  Score: 5
+  CardAlreadyUsed: 0

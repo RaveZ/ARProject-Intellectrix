@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e224c336fcaef49bc79e63b16d264d, type: 3}
+  m_Name: QuestionData 7
+  m_EditorClassIdentifier: 
+  Question: 'Kamu sedang berjalan - jalan dihutan untuk mencari sumber air. Saat
+    kamu menemukan sebuah sungai, ada orang yang menjaga sungai tersebut. Kamu dapat
+    mengambil air dari sungai tersebut jika kamu menjawab teka teki dari penjaga
+    tersebut.   Teka-teki : Aku bisa bergerak tanpa kaki dan tanganku. Apa aku? '
+  Answer:
+  - 'Burung '
+  - 'Tikus '
+  - Ular
+  - Belakang
+  CorrectAnswerText: 'Jawaban Yang Benar: C, Karena ular bergerak dengan perut, bukan
+    dengan tangan dan kaki '
+  CorrectAnswer: 2
+  Score: 5
+  CardAlreadyUsed: 0

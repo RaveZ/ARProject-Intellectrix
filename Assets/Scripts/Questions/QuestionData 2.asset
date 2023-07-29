@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e224c336fcaef49bc79e63b16d264d, type: 3}
+  m_Name: QuestionData 2
+  m_EditorClassIdentifier: 
+  Question: Rani dan Budi sedang bermain petak umpet di sekitar desa mereka. Rani
+    bersembunyi di belakang pohon besar di utara desa, sementara Budi bersembunyi
+    di antara semak-semak di selatan desa. Jika jarak antara utara dan selatan desa
+    adalah 120 meter, dan mereka masing-masing berjalan 30 meter ke arah timur, berapa
+    total jarak yang mereka tempuh untuk bermain petak umpet?
+  Answer:
+  - '150 meter '
+  - 180 meter
+  - 210 meter
+  - 240 meter
+  CorrectAnswerText: 'Jawaban Yang Benar: B, Karena jarak total yang mereka tempuh
+    adalah 120 meter (utara-selatan) + 30 meter (Rani ke timur) + 30 meter (Budi
+    ke timur) = 180 meter. '
+  CorrectAnswer: 1
+  Score: 5
+  CardAlreadyUsed: 0
