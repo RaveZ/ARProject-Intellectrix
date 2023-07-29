@@ -12,18 +12,88 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 5658187837249042612
-  m_GuidHigh: 1693853217699264133
+  m_GuidLow: 4857531878036547825
+  m_GuidHigh: 11486707230218510266
   m_DataStore:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5038301095747906722
-      m_GuidHigh: 11868101788079579524
+      m_GuidLow: 5203045607617647606
+      m_GuidHigh: 11911260744936246428
     m_SerializedTextureGuid:
-      m_GuidLow: 3883300824226297185
-      m_GuidHigh: 16143963642806693401
-    m_Size: {x: 0.3, y: 0.3}
+      m_GuidLow: 12935701993904935093
+      m_GuidHigh: 11464545161924668730
+    m_Size: {x: 0.1, y: 0.070700005}
     m_SpecifySize: 1
-    m_Name: Doge
+    m_Name: bigCity
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4660395674897014438
+      m_GuidHigh: 12307067830741379214
+    m_SerializedTextureGuid:
+      m_GuidLow: 17038512311498656999
+      m_GuidHigh: 4633224541260374136
+    m_Size: {x: 0.1, y: 0.070700005}
+    m_SpecifySize: 1
+    m_Name: boat
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5086515735630283498
+      m_GuidHigh: 17570617913049175188
+    m_SerializedTextureGuid:
+      m_GuidLow: 11183793900577795093
+      m_GuidHigh: 14795357134088036251
+    m_Size: {x: 0.1, y: 0.070700005}
+    m_SpecifySize: 1
+    m_Name: city
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5214141256349828154
+      m_GuidHigh: 10032956743358824882
+    m_SerializedTextureGuid:
+      m_GuidLow: 15115290504371793679
+      m_GuidHigh: 15965776071266475595
+    m_Size: {x: 0.1, y: 0.070700005}
+    m_SpecifySize: 1
+    m_Name: dragon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4879843322307379207
+      m_GuidHigh: 9871919700671289239
+    m_SerializedTextureGuid:
+      m_GuidLow: 5292892265431125047
+      m_GuidHigh: 8978410631212547161
+    m_Size: {x: 0.1, y: 0.070700005}
+    m_SpecifySize: 1
+    m_Name: kraken
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4662678771805058997
+      m_GuidHigh: 13538182974059116723
+    m_SerializedTextureGuid:
+      m_GuidLow: 15579355616064949294
+      m_GuidHigh: 10904608079075248824
+    m_Size: {x: 0.1, y: 0.070700005}
+    m_SpecifySize: 1
+    m_Name: ship
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5339853206757030611
+      m_GuidHigh: 16708189195273260683
+    m_SerializedTextureGuid:
+      m_GuidLow: 2275705673048069545
+      m_GuidHigh: 748982815100898906
+    m_Size: {x: 0.1, y: 0.070700005}
+    m_SpecifySize: 1
+    m_Name: treasure
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5020831796077615399
+      m_GuidHigh: 7540084772135828135
+    m_SerializedTextureGuid:
+      m_GuidLow: 136363771321924135
+      m_GuidHigh: 15818005926157315288
+    m_Size: {x: 0.1, y: 0.070700005}
+    m_SpecifySize: 1
+    m_Name: village
     m_Texture: {fileID: 0}

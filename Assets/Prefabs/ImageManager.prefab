@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6383944390487686484
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6383944390487686488}
+  - component: {fileID: 6383944390487686489}
+  - component: {fileID: 6383944390487686490}
+  - component: {fileID: 6383944390487686491}
+  m_Layer: 0
+  m_Name: ImageManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6383944390487686488
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6383944390487686484}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6383944390487686489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6383944390487686484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520bb47c46cf8624fafb307b7d1b862a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Camera: {fileID: 0}
+--- !u!114 &6383944390487686490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6383944390487686484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedLibrary: {fileID: 0}
+  m_MaxNumberOfMovingImages: 0
+  m_TrackedImagePrefab: {fileID: 0}
+--- !u!114 &6383944390487686491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6383944390487686484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185cdb954668f9941b920aad757c7f6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ImageLibrary: {fileID: 11400000, guid: 4b933a3df9576424986e720eb357f493, type: 2}
+  objectToPlace:
+  - name: bigCity
+    prefab: {fileID: 6674301407338394804, guid: f583b07bf2e06f84ba3d5ac4e36bd4ce, type: 3}
+  - name: boat
+    prefab: {fileID: 6674301407338394804, guid: 632e2700d5f7b5149b179b80bdb8f9fa, type: 3}
+  - name: city
+    prefab: {fileID: 6674301407338394804, guid: 55657089d61fc084d8465f8064ac7fcf, type: 3}
+  - name: dragon
+    prefab: {fileID: 6674301407338394804, guid: f10c02d3b798e414eaa8b5b00620e1a9, type: 3}
+  - name: kraken
+    prefab: {fileID: 6674301407338394804, guid: 29aa50e11aeb00c419a390478f07221b, type: 3}
+  - name: ship
+    prefab: {fileID: 6674301407338394804, guid: be2eeb3e7f4a40b49afc1a41f5c82a24, type: 3}
+  - name: treasure
+    prefab: {fileID: 6674301407338394804, guid: 41602c80a80701d47b3df092e776ee53, type: 3}
+  - name: village
+    prefab: {fileID: 6674301407338394804, guid: 6dabae4c4373aab44a3f1467ea9a0da9, type: 3}
+  t: {fileID: 0}
